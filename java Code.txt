@@ -1,0 +1,6 @@
+public
+{ 
+hello world 
+privte
+}
+end 
